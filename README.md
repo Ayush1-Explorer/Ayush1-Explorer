@@ -47,7 +47,7 @@
             <li>🌟 Always staying abreast of the latest tech trends and contributing to open-source projects.</li>
         </ul>
         <h2>📚 Education</h2>
-        <p>Currently sharpening my skills at [Your University/Institution], absorbing knowledge like a sponge and translating it into lines of code.</p>
+        <p>Currently sharpening my skills at <b>REVA University</b>, absorbing knowledge like a sponge and translating it into skills.</p>
         <h2>🔗 Let's Connect</h2>
         <p>Let's connect and collaborate to build something remarkable together! You can find me on <a href="https://www.linkedin.com/in/ayush-pareek-14ba2821b/" target="_blank">LinkedIn</a>.</p>
         <p>Happy coding! 🚀✨</p>
