@@ -102,7 +102,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=openai" height="40" alt="openai logo"  />
+  <img src="https://github.com/lencx/ChatGPT/blob/main/public/logo.png" height="40" alt="openai logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
