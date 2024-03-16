@@ -62,41 +62,55 @@
 </div>
 
 <div align="left">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="Amazon Web Services" />
-  <img src="https://iconduck.com/icons/94022/aws-rds.png" alt="DynamoDB" title="Amazon DynamoDB" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/bash.png" alt="Bash" title="Bash" />
-  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" title="Microsoft Azure" />
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C Programming Language" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++ Programming Language" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" />
-  <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="Google Cloud" title="Google Cloud Platform" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" title="Jenkins" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" title="Kubernetes" />
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" />
-  <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="NGINX" title="NGINX" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" />
-  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript" />
-  <img src="https://img.icons8.com/color/48/000000/webflow.png" alt="Webflow" title="Webflow" />
-  <img src="https://img.icons8.com/fluency/48/000000/vercel.png" alt="Vercel" title="Vercel" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/openstack.png" alt="OpenStack" title="OpenStack" />
-  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" title="GitHub" />
-  <img src="https://img.icons8.com/material-rounded/48/000000/express.png" alt="Express" title="Express.js" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="amazondynamodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=openai" height="40" alt="openai logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=openstack" height="40" alt="openstack logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
 </div>
