@@ -57,7 +57,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=apache" height="40" alt="apache logo"  />
+  <img src="https://skillicons.dev/icons?i=apache2" height="40" alt="apache2 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
