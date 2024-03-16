@@ -63,7 +63,7 @@
 
 <div align="left">
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="Amazon Web Services" />
-  <img src="https://img.icons8.com/color/48/000000/amazon-dynamodb.png" alt="DynamoDB" title="Amazon DynamoDB" />
+  <img src="https://iconduck.com/icons/94022/aws-rds.png" alt="DynamoDB" title="Amazon DynamoDB" />
   <img src="https://img.icons8.com/ios-filled/50/000000/bash.png" alt="Bash" title="Bash" />
   <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" title="Microsoft Azure" />
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C Programming Language" />
