@@ -2,7 +2,7 @@
 <html lang="en">
     <div class="container">
         <h1>👋 Hey there, I'm Ayush Pareek</h1>
-        <p>A passionate learner and enthusiast in the realms of cloud architecture and software development.</p>
+        <p>A passionate learner and enthusiast in the realms of <b>Cloud architecture and Software development.</b></p>
         <h2>💻 My Tech Playground</h2>
         <ul>
             <li>☁️ Cloud aficionado exploring AWS, Azure, and GCP.</li>
